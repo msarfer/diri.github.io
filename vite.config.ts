@@ -4,4 +4,8 @@ import { defineConfig } from 'vite';
 // https://vite.dev/config/
 export default defineConfig({
     plugins: [react()],
+    base: "https://msarfer.github.io/tienda-comida",
+    build: {
+        outDir: 'docs'
+    }
 });
