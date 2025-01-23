@@ -17,7 +17,7 @@ function Foods() {
               <header>
                 <img
                   className="foodImg"
-                  src={`/images/${item.image}`}
+                  src={`/tienda-comida/images/${item.image}`}
                   alt={item.name}
                   style={{height: '100px'}}
                 />

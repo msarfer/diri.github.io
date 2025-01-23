@@ -15,7 +15,7 @@ const menuItems: MenuItem[] = [
       quantity: 60,
       desc: "Hamburguesa de ternera frita - … y mayonesa",
       price: 12,
-      image: "./ht.avif",
+      image: "ht.avif",
     },
     {
       id: 3,
@@ -23,7 +23,7 @@ const menuItems: MenuItem[] = [
       quantity: 50,
       desc: "Patatas fritas espectaculares con mayonesa",
       price: 7,
-      image: "./pa.jpg",
+      image: "pa.jpg",
     },
     {
       id: 4,
@@ -31,7 +31,7 @@ const menuItems: MenuItem[] = [
       quantity: 400,
       desc: "Helado italiano con chocolate suizo",
       price: 10,
-      image: "./he.jpg",
+      image: "he.jpg",
     },
     
 ]
